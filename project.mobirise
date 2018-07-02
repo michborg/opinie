@@ -1142,7 +1142,7 @@
     "page1.html": {
       "settings": {
         "meta_descr": "Web Site Creator Description",
-        "title": "Opinie",
+        "title": "Ostatnie realizacje",
         "order": 1
       },
       "components": [
