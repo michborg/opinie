@@ -1333,13 +1333,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/727834601-8-1000x700-oslona-grzejnika-maskownica-na-grzejnik-szklo-colorimo-oraz-lacobel-rev001-1-999x496.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/727834601-8-1000x700-oslona-grzejnika-maskownica-na-grzejnik-szklo-colorimo-oraz-lacobel-rev001-1-999x496-661x496.jpg",
+                "image": "@PROJECT_PATH@/assets/images/727834601-8-1000x700-oslona-grzejnika-maskownica-na-grzejnik-szklo-colorimo-oraz-lacobel-rev001-2-999x496.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/727834601-8-1000x700-oslona-grzejnika-maskownica-na-grzejnik-szklo-colorimo-oraz-lacobel-rev001-2-999x496-556x417.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Tutaj wstaw opis",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Colorimo",
@@ -1391,7 +1391,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Tutaj wstaw opis",
-                "active": true
+                "active": false
               }
             ]
           },
